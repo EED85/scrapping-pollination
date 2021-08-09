@@ -7,7 +7,7 @@ smmap==3.0.2
 six==1.14.0
 requests==2.22.0
 requests-toolbelt==0.9.1
-pywin32==227
+pywin32==301
 pytz==2019.3
 python-dateutil==2.8.1
 PySocks==1.7.1
