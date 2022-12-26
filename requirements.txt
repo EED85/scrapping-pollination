@@ -1,5 +1,5 @@
 wincertstore==0.2
-wheel==0.34.2
+wheel==0.38.1
 urllib3==1.25.8
 tqdm==4.42.1
 soupsieve==2.0
